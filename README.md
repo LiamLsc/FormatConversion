@@ -1,9 +1,7 @@
-![git](C:\Users\Liam\Desktop\git.jpg)
+![git.jpg](https://i.loli.net/2021/05/08/qA4H2jiZckgeG1m.jpg)
 
 - 利用【[FFMPEG](https://github.com/FFmpeg/FFmpeg)】开源项目对图片、音频、视频等文件进行格式转换
 - 支持QSV QLV FLV等加密格式视频转换
-
-[![GitHub stars](https://camo.githubusercontent.com/a26a61a4c0ca4b58680ae2db0a2ee67e00cd1d728050c5fd1cd24e27a8706112/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f5369746f692f6461696c79636865636b696e2e7376673f7374796c653d706f706f75742d737175617265)](https://github.com/Sitoi/dailycheckin/stargazers) [![GitHub forks](https://camo.githubusercontent.com/e9713b4fc8297247a53e28a0470a062a6aec1132f5f026790da5cb717e975f4b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f5369746f692f6461696c79636865636b696e2e7376673f7374796c653d706f706f75742d737175617265)](https://github.com/Sitoi/dailycheckin/network/members) [![GitHub issues](https://camo.githubusercontent.com/75893ca3cbe6d2cd80e0a183afed8f3baf38654a931338f12c157bbcb082565c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f5369746f692f6461696c79636865636b696e2e7376673f7374796c653d706f706f75742d737175617265)](https://github.com/Sitoi/dailycheckin/issues) [![Docker Pulls](https://camo.githubusercontent.com/5fac7d1d36fd20f0872ba80fdcb45c9214a45d68ab754d0a39d95eec7bcfe129/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f70756c6c732f7369746f692f6461696c79636865636b696e3f7374796c653d706f706f75742d737175617265)](https://hub.docker.com/repository/docker/sitoi/dailycheckin) [![visitor](https://camo.githubusercontent.com/8b66671ec32cf267f0504e6834e8e5cccf1635c0d426d84c602d1f4cc20674d7/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d5369746f692d6461696c79636865636b696e)](https://sitoi.github.io/dailycheckin)
 
 ## ✨特别声明:
 
@@ -46,11 +44,6 @@
         </li>
 
 ## ✨交流群
-
-| ![](C:\Users\Liam\Desktop\Unity技术交流群聊二维码.png) |
-| :----------------------------------------------------- |
-
-
 
 ## ✨特别鸣谢
 
